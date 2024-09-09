@@ -1,0 +1,48 @@
+
+> [!info] Part of the Casswiki article series [[Cassiopaean Experiment]], [[Channeling and channeled material]], [[Fourth Way]], [[Esoterica]] and [[Matrix control system]]
+
+Almost every imaginable claim has been made concerning **sex**. We will look at the subject from a number of angles, including myth, mass culture and control system, various esoteric teachings and channeled material.
+
+Many creation myths have sexual content. In the Egyptian cosmogony, the autofellatio of Atum leads to him spitting out the god Shu and goddess Tefnut. The One has become the many. This idea is quite universal. The channeled entity [[Ra]] puts it so that the One differentiates into the [thought centers]([[Thought center]]) of [[Service to others and service to self|service to others and service to self]] and the "distortion of [[Free will|free will]]" mediating between these. This is akin to the One becoming the first [three forces]([[Law of Three]]) of [[Fourth Way]] cosmology at the first interval of the octave of creation.
+
+The same idea is found in Babylonian myth, where the creator masturbating brings forth the Euphrat and Tigris.
+
+Closer to the human perspective, sex is a central feature, whether taboo or object of open desire, in lending cultures their distinctive character. For understanding this from the esoteric angle, we need to first understand what this may be, beyond any biological or socio-psychological phenomenon.
+
+In [[George Gurdjieff]]'s Fourth Way teaching, sexual energy is its own specific [[Hydrogens (Fourth Way)|hydrogen]], called Si12, the highest product of transformation of food. The "default" usage of this is for reproduction, where male and female versions of this energy combine for conception. The by-product is this hydrogen going to '[[Food for the Moon|feed the Moon]],' since conception is relatively rare compared to the frequency of human sexual activity. Now Gurdjieff suggests that a conscious usage of Si12 is possible but that everybody who thinks simple abstinence is useful simply misunderstands the whole issue.
+
+Si12 is also the highest hydrogen produced by humans without conscious work. This is in principle at the level of the [[Higher centers|higher emotional center]] but is not the only possible food for it. Hydrogens of the level 12 resulting from the air and impression octaves may open this center also but these hydrogens are not formed without consciousness, like Si12 is.
+
+Sexual energy is then a sort of food. According to the [[Cassiopaeans]], excess sexual energy is claimed by [fourth density service to self being‎s]([[Fourth density service to self being]]). Thus the more people are preoccupied by it, the more people have sex, the better [the moon eats]([[Food for the Moon]]). Probably uninhibited promiscuity as well as strict taboos and guilt work equally well, simply producing a different flavor of food. History has known periods of both. Both extremes revolve equally much around sex, although not in the same manner.
+
+In the Gurdjieffian system of cosmic ecology, we could say that the more mechanical humanity gets, the more it has to compensate quality of vibrations by quantity to meet some cosmic quota. At the present time, the mass culture emphasis is on sex, whether via promiscuity or suppression, rather than on producing vibrations whose production requires conscious work.
+
+Sexual energy can be misused by running different [[Centers (Fourth Way)|centers]] of the body with it. It may animate the moving, emotional or thinking centers, where it manifests as a sort of frenetic hyperactivity. The moving center will break records, the emotional center may conceive of meant-to-be romances where there are none or launch itself in fanatic frenzies for diverse causes, and the thinking center may manufacture sandcastles of cosmologies with no basis in fact.
+
+Esoteric teachings pretty much all have a specific take on sex. The exoteric corruption of churches is to assign value to abstinence just for its own sake. Another, opposite misconception of would be magicians is its ritual use. Both probably feed the moon without even realizing it. Gurdjieff has a somewhat more nuanced approach, which we find essentially repeated with [[Carlos Castaneda]]: How literal sexual activity relates to spiritual transformation depends on the person. Some will abstain naturally, some will tend to increase activity, some might willfully abstain. Both G. and C.C. were sexually active and rather promiscuous in their private lives.
+
+Tantra Yoga teaches that sex can be practiced as long as the energy is not released in orgasm. All these practices probably have some effect, but it may depend on the persons involved and not be what Is claimed.
+
+Looking at the physical side of sexuality and how it might correlate with the metaphysical, we note that psychic phenomena often occur around female puberty or menopause. The organism flukishly produces chemicals which activate otherwise dormant functions. Also we must mention [[Wilhelm Reich]]'s research on the orgasm. According to Reich, it releases so-called orgone energy, which probably corresponds to Gurdjieff's Si12. The beneficial effects of this for the body and mind are blocked by near-pervasive "armoring", i.e. physical and mental tensions arising from trauma. Outside of the human, orgone plays the function of an ordering principle in weather phenomena, for example. It is one among a gradation of 'intelligent energies' or 'hydrogens.'
+
+[[Laura Knight-Jadczyk]] argues in _[[The Secret History of the World]]_ that references to sex in myth and alchemy and other tradition are likely corruptions of the idea of DNA. DNA and its activation is important, not actual sexual activity. The _hieros gamos_, the sacred union, is most often not a sexual act in the ordinary sense. The myth of the androgyne refers more to the polar couple than to a person with mixed sexual characteristics.
+
+Still, in myth also, orgiastic sexual activity is tied to periods of fall into chaos at the closing of cycles. The idea is probably a duality: On one hand, natural process, not to mention the control system, require releases of large amounts of sexual energy at intervals. The present time would be an example. On the other hand, such periods have a function of regeneration. Of course, this has a biological aspect but may also have a spiritual one. However, the spiritual aspect cannot be realized unconsciously. Emitting Si12 is not enough for this, other hydrogens are also needed.
+
+In [[Boris Mouravieff]]'s [[Gnosis (book trilogy)|_Gnosis_ books]], the physical aspect of sexuality is tied to spirituality via the idea of the polar couple. The polarity intensifies the production of Si12, which fills the motor and intellectual centers. Their functioning changes and the intellect temporarily loses its doubting, calculating and agnostic nature. The emotional center may transform Si12 to Sol12, which is a key to the higher emotional center. This can produce a flash of the consciousness of [[Real I|real I]]. Generally, Mouravieff argues that the superabundance of sexual energy in man is, besides a source of physical preoccupation, also the latent chance for esoteric evolution. Sexual energy is needed for the internal alchemy which opens the higher intellectual center. The sublimation of sexual energy involves conscious work of self-remembering and other practices.
+
+"[[Love]] is all you need," say the Cassiopaeans. According to them, the problem with sex is that it is, in practice, inseparable from the idea of physically getting for the self and of ownership or jealousy. These features align it with STS and make it so that it feeds 4D STS, no matter what one do with it. Besides, "desire-based imbalance," including desire for more physicality are among the root causes of the [[Fall of man|fall of man]], from which the Work aims to recover.
+
+[[Ra]] speaks about sex in some more detail. Sexual energy transfer between people is possible and even desirable in cases. The channel herself received energy in this way, which may be a "magical" operation with its attendant problems. The idea is that energy flows where there is a difference of potential, i.e. polarity and the [chakras]([[Chakra]]) in question are not blocked. The transfer involves a duality and can serve the self or serve others. The degree of spiritual love present in the interaction is a function of unblocking the heart chakra, which corresponds roughly to the higher emotional center of Gurdjieff. In Fourth Way terms, we could say this requires the consciously produced hydrogens of Mi12 and Sol12, not only the unconsciously produced Si12. So this in a way determines whether the interaction is in the taking or sharing mode.
+
+Gurdjieff describes sex as a bodily function for which people must find a personally suitable outlet. This must not be confused with [[Love|love]], says he. At the level of personal practice, most esoteric sources discourage promiscuity. The rationale is twofold: Sexual activity establishes a long lasting energy flow between the partners. If this is mixed between several people, confusion arises and may be reflected in physical or emotional problems. Also, casual sex without emotional involvement is unlikely to activate any higher energies and tends towards attachment to physical satisfaction and getting for self.
+
+The subject is complex and we do not have space to discuss the almost endless variations in specifics; the reader is referred to the source materials.
+
+See also
+--------
+
+*   [[Polar opposites or polar beings]]
+*   [[Hydrogens (Fourth Way)]]
+*   [[Fall of man]]
+*   [[Food for the Moon]]

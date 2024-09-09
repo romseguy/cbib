@@ -1,0 +1,12 @@
+
+> [!info] Part of the Casswiki article series [[Cassiopaean Experiment]] and [[Channeling and channeled material]]
+
+In the scale of [[Density|densities]], the **first density** corresponds to inanimate matter and [[Energy|energy]]. Since the scale of densities is principally concerned with how awareness interacts with its environment, we could say that the first density is the raw material on which awareness acts in order to create.
+
+The [[Cassiopaeans|Cassiopaean]] material proposes that absolutely everything, thus including inanimate matter, learns after its own fashion and that there is nothing that would not somehow derive from consciousness. In this sense, the first density could be said to be sleeping consciousness, not structured into organisms or species of living things. As the density gets higher, the entities of said density become more diverse and more alive, holding more "aliveness", information or intelligence per entity.
+
+We cannot attribute human-like or animal-like consciousness to inanimate matter. Rupert Sheldrake's claims on morphic resonance between crystals could be something akin to learning at the level of the first density. If one particular solution is once made to crystallize, it will crystallize more readily in experiments carried out in separate locations. Claims concerning the memory of water would be another example of learning in the first density. The imprinting of patterns on a solvent through successive dilutions as practiced in preparing homeopathic remedies might be another example.
+
+The ultimate learning result of the first density is for matter to learn to form self-replicating organisms, thereby creating life. In the Cassiopaea/Ra cosmology, this is not entirely independent of pre-existing consciousness, rather we could say that the consciousness from the future creates its material beginnings in the past. This may take place through various processes, for example manipulating quantum effects at the molecular level in order to promote formation of the building blocks and initial genome for primitive organisms.
+
+In the [[Fourth Way]] scale of [[Hydrogens (Fourth Way)|hydrogens]], the first density would correspond to H3072, which is the category of metals and minerals and generally of substances which do not have a biological origin.

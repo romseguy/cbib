@@ -1,0 +1,30 @@
+
+> [!info] Part of the Casswiki article series [[Cassiopaean Experiment]], [[Fourth Way]] and [[Religion]]
+
+**Lies** are ubiquitous in both the inner and outer life of man. Any work aspiring towards [[Truth|truth]] needs to deal with this state of matters – which to begin with requires distinguishing between various forms of **lying**. The below draws on [[Boris Mouravieff]]'s discussion of lying in the _Gnosis_ books.
+
+Lies can be categorized as follows:
+
+*   _Necessary lies_. There are situations where lying Is essential to survival or to capacity to function. Peter's denying of Jesus is an [[Archetype|archetypal]] example of this.
+*   _Useful lies_. [[Disinformation]] and various misrepresentation are common in [politics]([[Politics and pathocracy]]), business, advertising and so forth. These are often not directly demonstrable falsehoods but rather spins put on events. These, as well as various withholding of information, scheming and so forth are done essentially to [serve the self]([[Service to others and service to self]]) at the expense of another. Functioning in the world requires one at least to be aware of this. Such actions are in principle antithetical to [service to others]([[Service to others and service to self]])\-oriented esoteric development, yet the seeker may be forced to have recourse to secrecy or disinforming either in professional life or in order to be able to maintain his quest in a world which is for the most part hostile to such endeavors.
+*   _Useless lies_. People sometimes lie out of habit, giving false impressions in order to please, or be socially accepted, exaggerate their accomplishments and hide their failings, all in the context of regular small talk. Such lying is not necessary nor is it useful and it generally only serves to dissipate energy and subtly increase [[Subjectivity|subjectivity]].
+*   _White lies_. Lying can sometimes be motivated by noble motives such as concern for others. This is the case for example when telling a sick person that the sickness not be fatal when in fact it is. Mouravieff compares this to attempting to perform a miracle with insufficient means. The word does not change the world.
+*   _Lies to the self_. Of all forms of lying, lying to oneself is esoterically the most harmful. This is the only form of lying which is never justified. One effect of lying to oneself is increasing the factionalization of [[little 'I's]], where one little 'I' misleads another – which goes directly against the goal of forging an internal unity. Another effect of lying to oneself, specially if the lie is believed by a large faction of little 'I's, is weakening one's faculty of [[Discernment|discernment]]. Habitual lying to oneself creates buffers, promotes [sleep]([[Waking sleep]]), and introduces internal noise conflicting with the signals from those parts of self which do not believe the lie to the self. Deliberately lying to others is less destructive to integrity than lying to self, specially if the latter lie is believed and absorbed into the self.
+
+There are various psychological techniques of influencing the self, such as NLP (neurolinguistic programming) and diverse techniques of suggestion and [[Hypnosis|hypnosis]]. These can certainly be used for lying to the self but are not limited to this. Widespread use of these methods does run the risk of simply constructing more internal fantasies about the self, which is ultimately harmful. At the very least, one should know what effect one attempts to create and why.
+
+[[George Gurdjieff]] says concerning lying that in most circumstances, man lies or tells the truth mechanically, simply because he cannot do otherwise. Only when there is a measure of non-mechanical [[Being|being]] and intentionality does lying or telling the truth become significant. Moral or ethical considerations do not apply to [machines]([[Reaction machine]]). One must have a degree of mastery over the self in order to make choices concerning honesty. All is predicated on the circumstance and the level of being of the participants. Within [[The Work|the Work]], honesty is required; in the outside world, compulsive honesty can even be a form of hysteria and lead to all manner of trouble.
+
+The question of truth and lies relates to creativity and [[Entropy|entropy]] through the fact that lying always introduces confusion and disorder into the system of the world. In a world that is based on lies and half-truths playing along with this is to a degree necessary. Lying generally introduces added separation between the one who lies and the one to whom one lies. As an internal phenomenon this is contrary to the Work. As an outside interaction, separating one's inner life from another by lies can be vital.
+
+Lies are a form of power over others. In terms of the dynamic of [service to others vs. service to self]([[Service to others and service to self]]), lies are a tool of service to self. Lies are aligned with the principle of entropy simply because the more lies the world contains, the less organized and the more fragmented it becomes, and the more energy is expended in maintaining all this complexity. This ties up energy which otherwise could be expressed creatively. This is true within the individual as well as at the societal scale,.
+
+A lie can be seen as an indirect request for truth. In a situation of confrontation where lies are used as instruments, the defense consistent with the service to others orientation is confronting the lies and spin with truth. Lies and their promoters can often be recognized by the fact that they tend to shift in response to circumstance and become entangled in their own contradictions while truth remains stable.
+
+See also
+--------
+
+*   [[External vs. internal considering]]
+*   [[Strategic enclosure]]
+*   [[Truth]]
+*   [[Discernment]]

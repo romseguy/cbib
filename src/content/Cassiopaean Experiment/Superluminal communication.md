@@ -1,0 +1,16 @@
+
+> [!info] Part of the Casswiki article series [[Cassiopaean Experiment]]
+
+The word **superluminal** means faster than light. In the context of special relativity, nothing can travel faster than light. If a material object traveled at light speed, it would have infinite kinetic energy, which it could never acquire in finite time with finite force. The coefficient given by the Lorentz transformation which measures the mass increase, length decrease and time dilation as an object approaches light speed reaches infinity at light speed and has an imaginary value for velocities greater than light speed.
+
+Any signal traveling at light speed or less communicates of a past state of its system of origin. A hypothetical signal traveling faster than light would in concept travel from the future to the past, arriving before it departed.
+
+Quantum entanglement displays superluminal communication but cannot be used for information transfer, hence it does not violate causality or special relativity. When the state of one of the entangled particles is measured, the other entangled particle turns out the same. This does not, however, transmit information between the measurement points.
+
+Transmitting information from the future to the past violates causality because the past which is the prerequisite for the future's existence is modified by the information. This need not be an absolute barrier for superluminal communication if this communication is inherently noisy or probabilistic in nature. Considering such possibilities departs from strict determinism and opens the door to considering simultaneous possible pasts, presents and futures.
+
+The channeling phenomenon is one possible instance of superluminal communication directly received by a consciousness. It is, however, undemonstrative as a process as understood by modern physics. Such communication forms paradoxes only if the world were interpreted as deterministic. In the [[FOTCM|FOTCM]]'s thinking, the process of superluminal communication between past and future selves is a probabilistic phenomenon which ties certain possible pasts to certain possible futures by means of a sort of feedback loop. However, all superluminal communication, indeed if we accept that the channeling phenomenon represents such, need not come from the same possible future.
+
+Thus, each point of consciousness potentially mediates between multiple possible pasts and futures. The act of discerning between signals emanating from multiple possible futures and acting according to them may have a feedback effect on the signals themselves, increasing the probability of one future as opposed to another. We could think of the pasts and futures as being coupled in a sort of resonance or mutually reinforcing feedback.
+
+Esoteric culture has examples of such ideas, for example with Steiner's idea of the spirit coming to inform the evolution of matter from the future and matter coming to meet the future from the past, each moment of consciousness being a sort of crossroads between two streams running in opposite directions. This notion is an instance of the Law of Three, with consciousness acting as the neutralizing force.

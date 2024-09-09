@@ -1,0 +1,17 @@
+
+> [!info] Part of the Casswiki article series [[New Age]], [[Channeling and channeled material]], [[Natural science]] and [[Cassiopaean Experiment]]
+
+The **pole shift** is a common theme in various predictions of Earth changes. This may refer to various distinct processes. It is generally agreed that the polarity of Earth's magnetic field switches at various semi-regular intervals. The shift of the magnetic poles appears to be a rapid process, as seen in rocks that were in the process of solidifying during such an event. Magnetic crystals at different layers of the rock are differently oriented, indicating that the direction of the ambient magnetic field had changes during the process of cooling.
+
+The pole shift, as generally used, refers to more than the switching of the magnetic poles. The idea is that the rotational axis of the planet shifts relative to the plane of the orbit or that the crust of the Earth shifts in relation to the core or both. There is no generally accepted theory on processes which could cause such an effect. We note that the angular momentum of the planet is large and that it would take significant energy to shift the axis. To concertize this, one may think of a spinning top's tendency to keep its axis orientation. The precession of the equinoxes is a natural process where the rotation axis wobbles, although extremely slowly. There is no generally accepted explanation for the driving factor but the effect is well demonstrated. If enough kinetic energy to shift the rotational axis by a significant amount, such as several degrees, were delivered by an impact event, it would seem likely that the surface would be destroyed and the orbit around the sun significantly affected.
+
+The [[Cassiopaeans]] and [[Ra]] say that following the shift to [[Fourth density|fourth density]], the axis of rotation will be perpendicular to the plane of the orbit. It is difficult to say anything about this since the laws of physics that would apply across densities are essentially unknown. The channeled sources speak as if the 3rd and 4th density Earths were essentially separate bodies that were superposed in 3 dimensions but separate along a fourth axis.
+
+Legend compares the skies to a rotating mill. The theme is found in various cultures. In Nordic legend, the peg around which the mill rotated got suddenly unhinged, causing the mill which formerly ground plenty to only grind salt to fill the oceans. This account seems to refer to a sudden change in the orientation of the millstone, i.e. constellations with respect to the planet's rotation. This and other fragments may point to an ancestral memory of a cataclysmic pole shift, however the cataclysm was not severe enough to destroy all life. The same legends have been interpreted as referring to the gradual precession of the equinoxes but this seems to ignore part of the evidence.
+
+The Cassiopaean material suggests that the planet's rotation axis would have been perpendicular to the ecliptic at some past time and will return to perpendicular in the future. If this is so, we do not know of a mechanism to produce the effect. It would have to take some time If even a part of surface life is to survive this. Another possibility may involve alternate universes where the axis orientation is different to start with. Another possibility is that we are speaking of different bodies altogether, occupying different densities and subject to different laws.
+
+Further reading
+---------------
+
+*   _[[The Secret History of the World]]_ by Laura Knight-Jadczyk

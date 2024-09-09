@@ -1,0 +1,10 @@
+
+> [!info] Part of the Casswiki article series [[Channeling and channeled material]]
+
+This is the [[Ra]] term for a principle whereby a higher density service to others entity is prohibited from abridging the free will of lower density beings it communicates with.
+
+In specific, this concerns providing absolute proof of the higher density entity's nature or capabilities by giving material evidence, exact predictions etc. Doing so would abridge the free will of those who would wish to reject such communications and would not generally help those who would wish to pursue such communications either. Breaking of this rule would create a system of belief and promote reliance on an outside source. Neither is of service to others. The Cassiopaeans have repeatedly emphasized on one hand free will and on the other the impossibility and undesirability of proof that would penetrate through the 'skeptic' system of beliefs.
+
+Therefore interaction with higher sources often takes place through channeling, which is inherently ambiguous as to its source. Another format is crop circles, which are equally ambiguous. Crop circles may be less ambiguous as to their non-earthly source but their meaning is all the more cryptic so as to balance this.
+
+Service to self entities may also be elusive but this is for a different motive, so as to obscure their manipulations from the general public. The [[UFO phenomenon]] is a case in point. Either being totally invisible is not practical or some visibility is useful due to the confusion it creates, hard to tell. In the case of people communicating with such entities, the 4D STS masters can give very explicit directives, threats and generally have no regard for free will, besides their own free will to serve themselves. Aleister Crowley's Lam or the various spirit contacts of Nazi occultists would offer an example.

@@ -1,0 +1,30 @@
+
+> [!info] Part of the Casswiki article series [[Mythology]] and [[Psychology]]
+
+The **vampire** is an [[Archetype|archetype]] representing parasitic use of the energy or life force of another for one's own sustenance.
+
+In [[Boris Mouravieff]] "Film (Fourth Way)")" of our lives he refers to such entities as "\[..\] the dead who \[...\] believe themselves to be alive." They are the puppets of [entropic]([[Entropy]]) [[Fourth density service to self being|fourth density service to self beings]], co-opted as human [[Agents|agents]] to use vampiric methods to collect and accumulate energy through their relationships with their victims. This collected energy is then transmitted to the 'overlords' and used to feed and maintain the "[[Matrix control system|matrix]]".
+
+In modern parlance, an "energy stealing" person is often referred to as a "psychic" vampire, meaning "one who drains or steals life force from another", or "a person that sustains its life, way of life, or own emotional state, by draining or feeding from the energy, emotions or life of another human being". This describes [organic portals]([[Organic portal]]), [[narcissists|Narcissism]], [[Psychopaths|psychopaths]] or anyone else who drains energy from another person.
+
+It appears that myths and folk stories we know today may actually be based on the stealing of [[Energy|energy]] rather than blood. Slavonic folk tales dating back to the eleventh century depict the vampire's victim as 'wasting away' or 'losing their life force little by little' until they die. They don't explicitly describe a vampire taking blood, and the 'blood' element of vampire lore may have been added later.
+
+Ancient stories of vampire-like creatures seem to be universal, found not only in Europe but all over the world, in such places as Africa, Japan, India, and China. Some of them relate stories of vampire creatures from the realms of gods, goddesses and demons. For instance, in India the goddess Kali was a "blood drinker" and known for not wasting even one drop of the blood she took from her human victims. From Europe come stories of non-corporeal creatures known by names such as _mora_ or _moro_, which can be recognized as those creatures we know as succubus or incubus. The non-corporeal vampires belonging to the spirit realms seem to have always been a part of human culture, and are reputed to steal life force or energy from humans through sexual contact, or by stealing the breath from their victims while they sleep. In _Paradise Lost_, John Milton describes such creatures, attributing to them androgynous or shape shifting traits with these words: "for spirits, when they please, Can either sex assume". Stories of spirit and god-like vampires may be modeled on the hyper-dimensional [[Fourth density|fourth density]] creatures we know as the overlords of our world, those 'receiving' and using the energy stolen by their human agents. We will also note that blood appears to have been entirely removed from carcasses left behind in the cattle or human mutilation phenomenon associated to [[UFO]] activity.
+
+In modern literature a vampire is most often portrayed as a person who is an "un-dead or re-animated corpse who arises at night to prey upon the living, staying ‘alive' by drinking their blood"; and as such, is, by most, considered myth or legend. The mythology of this kind of vampire, inconsistent and ever evolving, remains a popular entertainment theme in modern culture. The most famous of these vampires is, of course, Count Dracula. Bram Stoker is said to have based his famous 19th century novel on the 15th century ruler of Walachia, Vlad Tepes, better known as Vlad the Impaler for the bloody and torturous deaths of some 20,000 people he is reputed to have had impaled on sharp stakes. While the "evil" vampire is still a durable staple in entertainment, in the last few years there has also been a popular trend toward changing the mythology to include a more 'humanistic' type of vampire. Books and TV shows have portrayed these so-called "good" vampires as romantic, loving, desirous of regaining a soul, not drinking human blood, agonizing over their sins against humanity, and seeking redemption by helping mankind. This may or may not be having an affect on how people perceive vampires, but it is interesting to note that on the internet one can find vampire cults popular with people who want to become, or already consider themselves, vampires.
+
+It is believed the word "vampire" comes from the Slavic word _obyri_ or _obiri_, which evolved into the Bulgarian word _vampir_. Some sources say the Greek word _nosophoros_ (meaning "plague-carrier") evolved into the Old Slavonic word _nosufur-atu_. The "plague-carrier" aspect may have come from eastern European stories of vampires killing their victims by infecting them with a viral illness. Nowadays the words "vampire" and "nosferatu" are often interchanged.
+
+Traditional lore lists that an (inconsistent) assortment of items such as garlic, holy water, crucifixes, and silver which will supposedly provide temporary protection from vampires. Surprisingly, though, and contrary to popular 'belief,' silver isn't the most protective metal, the first choice traditionally being iron. Ultimately though, or so says the 'lore,' one's safety depends on vampires being completely eliminated by using such drastic measures as driving a wooden stake through the heart, removing the head or certain organs, or exposing the vampire to the 'light of the Sun' which is said to consume it by fire. Perhaps the last is a metaphor for the protection of [[Knowledge|knowledge]] as the "light" which will reveal the true face of the vampires to those with the [[perspicacity]] to 'see,' thus giving them the opportunity to eliminate 'vampire relationships' from their lives.
+
+See also
+--------
+
+*   [[Knowledge]]
+*   [[perspicacity]]
+*   [[Matrix]]
+*   [[Archetype]]
+*   [[Energy]]
+*   [[Organic portal]]
+*   [[Boris Mouravieff]]
+*   Film (Fourth Way)

@@ -1,0 +1,55 @@
+> [!info] Part of the Casswiki article series [[Shamanism and archaic esotericism]]
+
+The **predator's mind** is [[Carlos Castaneda]]'s term for that which aligns man with the [[Thought center|thought center]] of [[service to self]].
+
+In _[[The Active Side of Infinity]]_, [[Don Juan]] tells Castaneda of the Earth being invaded in the mists of time by creatures of condensed darkness, the so-called "Flyers", which use man as food.
+
+The key idea as that these cosmic predators gave man their own mind. This is reasonable in light of much other material. At the human level, a system based on exploitation and consuming and control is seen to shape people in its own image: The slave tends to dream of becoming a master rather than of abolishing slavery. Any organization based on dominance naturally takes the form of a pyramid with few at the top and most at the bottom. For man to be the bottom or in some cases intermediate level of such a system, man must have the attributes of the dominators, only at a reduced scale.
+
+At the metaphysical level, many channeled sources point out that while [[Fourth density service to self being|'higher' service to self beings]] eat what they can, energies emanating from [[service to others|service-to-others]]\-oriented beings are not edible.
+
+Castaneda's writings in large part deal with ways of claiming one's own in terms of energy and free will from such a system. The battle is in large part internal. One must unmask and stand up to one's internal predator first. Otherwise, one's external actions, even if well motivated, take place in the paradigm and mode of the predator.
+
+The internal predator can be extremely subtle. Still, it has some general recognizable characteristics: Castaneda puts it as follows:
+
+> "They \[the sorcerers of ancient Mexico\] discovered that we have a companion for life. We have a predator that came from the depths of the cosmos and took over the rule of our lives. Human beings are its prisoners. The predator is our lord and master. It has rendered us docile, helpless. If we want to protest, it suppresses our protest. If we want to act independently, it demands that we don't do so." \[...\]
+> 
+> "You have arrived, by your effort alone, to what the shamans of ancient Mexico called the topic of topics. I have been beating around the bush all this time, insinuating to you that something is holding us prisoner. Indeed we are held prisoner! This was an energetic fact for the sorcerers of ancient Mexico." \[…\] "They took over because we are food for them, and they squeeze us mercilessly because we are their sustenance. Just as we rear chickens in chicken coops, _gallineros_, the predators rear us in human coops, _humaneros_. Therefore, their food is always available to them." \[...\]
+> 
+> "I want to appeal to your analytical mind...Think for a moment, and tell me how you would explain the contradiction between the intelligence of man the engineer and the stupidity of his systems of beliefs, or the stupidity of his contradictory behavior. Sorcerers believe that the predators have given us our systems of beliefs, our ideas of good and evil, our social mores. They are the ones who set up our hopes and expectations and dreams of success or failure. They have given us covetousness, greed, and cowardice. It is the predators who make us complacent, routinary, and egomaniacal." \[...\]
+> 
+> "In order to keep us obedient and meek and weak, the predators engage themselves in a stupendous maneuver-stupendous, of course, from the point of view of a fighting strategist. A horrendous maneuver from the point of view of those who suffer it. They gave us their mind! Do you hear me? The predators give us their mind, which becomes our mind. The predators' mind is baroque, contradictory, morose, filled with the fear of being discovered any minute now. "I know that even though you have never suffered hunger, you have food anxiety, which is none other than the anxiety of the predator who fears that any moment now its maneuver is going to be uncovered and food is going to be denied. Through the mind, which, after all, is their mind, the predators inject into the lives of human beings whatever is convenient for them. And they ensure, in this manner, a degree of security to act as a buffer against their fear."
+
+Castaneda further explains that infants are born with a glowing coat of awareness and that this is what the predator eats, to the point where only a narrow fringe is left. This narrow fringe is sufficient to keep man alive. This narrow fringe is man's self-reflection, where man is irremediably caught.
+
+From the book:
+
+> By playing on our self-reflection, which is the only point of awareness left to us, the predators create flares of awareness that they proceed to consume in a ruthless, predatory fashion. They give us inane problems that force those flares of awareness to rise, and in this manner they keep us alive in order for them to be fed with the energetic flare of our pseudoconcerns.
+
+From Don Juan:
+
+> "\[The sorcerers of ancient Mexico\] reasoned that man must have been a complete being at one point, with stupendous insights, feats of awareness that are mythological legends nowadays. And then everything seems to disappear, and we have now a sedated man." \[…\]
+> 
+> "What we have against us is not a simple predator. It is very smart, and organized. It follows a methodical system to render us useless. Man, the magical being that he is destined to be, is no longer magical. He's an average piece of meat. There are no more dreams for man but the dreams of an animal who is being raised to become a piece of meat: trite, conventional, imbecilic." \[…\]
+> 
+> "The only alternative left for mankind," he continued, "is discipline. Discipline is the only deterrent. But by discipline I don't mean harsh routines. I don't mean waking up every morning at five-thirty and throwing cold water on yourself until you're blue. Sorcerers understand discipline as the capacity to face with serenity odds that are not included in our expectations. For them, discipline is an art: the art of facing infinity without flinching, not because they are strong and tough but because they are filled with awe.') "Sorcerers say that discipline makes the glowing coat of awareness unpalatable to the flyer..." \[…\]
+> 
+> "The grand trick of those sorcerers of ancient times, was to burden the flyers' mind with discipline. They found out that if they taxed the flyers' mind with inner silence, the foreign installation would flee, giving to any one of the practitioners involved in this maneuver the total certainty of the mind's foreign origin. The foreign installation comes back, I assure you, but not as strong, and a process begins in which the fleeing of the flyers' mind becomes routine, until one day it flees permanently. A sad day indeed! That's the day when you have to rely on your own devices, which are nearly zero. There's no one to tell you what to do. There's no mind of foreign origin to dictate the imbecilities you're accustomed to. "My teacher, the nagual Julian, used to warn all his disciples," don Juan continued, "that this was the toughest day in a sorcerer's life, for the real mind that belongs to us, the sum total of our experience, after a lifetime of domination has been rendered shy, insecure, and shifty. Personally, I would say that the real battle of sorcerers begins at that moment. The rest is merely preparation." "The flyers' mind flees forever," he said, "when a sorcerer succeeds in grabbing on to the vibrating force that holds us together as a conglomerate of energy fields. If a sorcerer maintains that pressure long enough, the flyers' mind flees in defeat. And that's exactly what you are going to do: hold on to the energy that binds you together."
+
+Castaneda's account is on many points in substantial agreement with other tradition. We will briefly compare Castaneda with other sources discussed in this work:
+
+*   The invasion of the predators would roughly correspond to the [[Fall of man|fall of man]]. The [[Cassiopaeans]] have spoken of man finding himself cut off from former capabilities, as if amnesiac after a head injury, all this reflected in the scrambling of DNA. The choice of increased physicality and [[service to self]] essentially amounts to even inviting the predator's mind into one's own.
+*   [[George Gurdjieff]]'s "organ kundabuffer" approaches the theme from another angle. There, the organ is forcibly installed into man in order to generally anesthetize him against reality and see the insignificant as great and the great as insignificant. This event too is depicted as taking place at the very beginning of man's existence on Earth, in response to a cataclysmic situation. Again, we have radical shift of perception and cataclysm together.
+*   In _Beelzebub's Tales_, we have the constant theme of vibrations being required of the Earth. When man would not produce the right quality consciously, nature shifted the circumstance to cater for accidental shocks which would provide the required amount of flashes of awareness, or 'higher hydrogens.' The predator feeds man problems and crises upon crisis. \[Castaneda\] 'Planetary influences arrange for wars and catastrophies simply to obtain required vibrations' \[Gurdjieff\] Man may also play his role consciously, at least in theory, and thus be free from these arbitrary influences and serve the universe in another manner, suggests Gurdjieff.
+*   "Man is born sane and spoiled by contemporary education, inculcated with the 'values' of ego, hypocrisy, self-calming, empty wiseacrings, vanity and self-love." \[Gurdjieff\] "When man reaches adult age, only the fringe of the glowing coat of awareness is left, barely covering the toes. This fringe is the center of self-reflection, the only awareness left to man." \[Castaneda\]
+*   The Cassiopaeans and [[Ra]] speak of man's consciousness being food in many places. In order not to be food, one needs to change internally. These sources call this alignment with STO and objectivity, Castaneda calls this discipline, impeccability, being a warrior fighting to be free. Gurdjieff calls this objective reason, Impartiality, acquiring being and objective conscience and being as a man ought to be.
+
+The parallels go further. Castaneda's '[[sorcerer]]', having caused the predator's mind to flee, is akin to Gurdjieff's description of the [[Real I|real I]], when it is first glimpsed through the veil of the [[false personality]]. It is small, insecure, unsteady and shifting. Nurturing this and bringing the personality into unity through [[Fusion (Fourth Way)|fusing it]] with [[Shock (Fourth Way)|shocks]] is a characteristic of all the paths discussed here.
+
+See also
+--------
+
+*   [[Fall of man]]
+*   [[Objectivity]]
+*   [[Food for the Moon]]
+*   [[Paying all in advance]]

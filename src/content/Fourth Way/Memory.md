@@ -1,0 +1,33 @@
+
+> [!info] Part of the Casswiki article series [[Fourth Way]] and [[Psychology]]
+
+[[Boris Mouravieff]] writes in _[[Gnosis]] "Gnosis (book trilogy)") volume I_ that **memory** is a result of [[Being|being]]. Memory is that which mediates between the parts of self, and only through memory can we speak of Being casting its illumination on the human mental landscape.
+
+However, Mouravieff does not say that memory constitutes being; rather, memory is a result and prerequisite of being. Memory is man's link to time. We could say, in the spirit of Rupert Sheldrake, that man's self-similarity across time causes memory to cross time and space _via_ morphic resonance. This resonance is between past and future contents of memory, making these a continuous, integrated memory and not a sequence of random disconnected snapshots. On the other hand the resonance is between the memory and the body, linking the memory to the human incarnation that both accesses and generates it.
+
+If memory is a key to time, then the more is remembered and the more these memories are interconnected, the larger the consciousness' extent in time is. On the other hand, if there is no extent in time, we can hardly speak of a consistent being or of meaningful possibility of choice. This is captured in the dictum 'those who do not learn history repeat it.' [[Knowledge]] sets free, it is said. This is also so with regard to time and memory is the tool for it.
+
+However, not all memory is the same. Disconnected facts serve little purpose. For memory to be a structure in which new learning is meaningful, it needs to contain predominantly true information and to be well connected. For memory to mediate between different centers of the human, memory must contain integrated impressions, not impressions from only one center. Practices of [[Self-remembering|self-remembering]] and [[Recapitulation|recapitulation]] seek to train the organism towards gaining such memory.
+
+[[Laura Knight-Jadczyk]] compares memory to cells. The surface of memory consists of concepts one has learned. These are like receptors at the cell surface, capable of receiving specific ligands. Binding to false information creates partly filled receptors to which the true information will no longer fit. Thus the cognitive structures of memory in a way dictate what sort of information they are receptive for. [[Truth]] binds to more truth and [[Lies and lying|lies]] bind more randomly, creating fragmentation and flaky connections. We could say that the distinguishing feature of truth is that it tends to be self-consistent and consistent with independent observation. Lies may also be self-consistent but they fail the test of independent validation. Memory with many associative connections which are fresh and trained is a sort of sieve through which new information can be run to see if it latches on.
+
+Fragmentation of memory into separate islands is a feature of pathologies such as multiple personality disorder. Even a healthy person in the normal sense of the word has multiple [[little 'I's]], but at least they have a largely shared memory even if they interpret it differently. The MPD patient's different alters do not necessarily have any common memory. There is more to pathologies than this but we cannot go deeper here into the subject.
+
+We can look at the role of memory in esoteric tradition. Plato has said that reliance on writing destroys the faculty of memory. This reflects the cultural fact that many of the traditions of his time, of which he may well have been an initiate, were indeed oral. Ancient history seems to have had a preponderance of oral tradition and this is not due to difficulty of writing or to lack of learning. We see this across the globe: The druids of Western Europe have left no written record, even though we have reason to believe they had an extensive esoteric culture and great influence, as evidenced by Caesar's exceptional persecution of them. The Vedas were committed to writing also quite recently, around 500 Ce. Of the mystery schools of Greek and Egyptian antiquity, next to no information survives, due to tight secrecy and no writing. [[George Gurdjieff]] writes that the ancients relied on legominism, i.e. traditional transmission from master to student for passing on their knowledge. Sometimes, the knowledge was encoded in other media of tradition, such as drama or temple dances, of which Gurdjieff himself was a student and teacher.
+
+We may think that oral tradition, if practiced in a serious esoteric setting, may be more resistant to falsification than writing. Also, the direct relationship between student and teacher cuts down on misunderstanding coming from differences of culture, personality and background.
+
+Beyond these considerations, we may see that the learning and memorization of vast bodies of tradition and archetypal stories may tune the brain to work quite differently from the modern academic mode. Present day education emphasizes extensive reading for exams followed by forgetting. The oral tradition mode emphasizes integrating the information, making it part of one's self.
+
+The alchemical "[[Green Language]]" can be seen in light of memory. [[Fulcanelli]] discusses techniques of teaching that rely on riddles and rich connections of surprising symbols, including homonyms, pictograms etc. These make different textures of memory from those formed from textbooks. We could say that modern book learning is for the formatory apparatus, whereas the Green Language of the esotericists is more holistic and broad and involve less literal and more creative thinking. We can conjecture that this also promotes integration between brain hemispheres as a natural process. At the present time, there is much talk of whole-brain thinking but the methods are different, relying on hypnosis, special stimulation etc instead of the natural mode of simply using all faculties together.
+
+It may be that an educational system which emphasized specialization and absorbing large amounts of information that can be forgotten after passing the tests favors mechanicality and keeping memory organized into compartments with little or no connection between them. This results in knowledge remaining theoretical and in it being not applied outside of the domain of one's career. This has the effect of making man more controllable.
+
+See also
+--------
+
+*   [[Being]]
+*   [[Self-remembering]]
+*   [[Recapitulation]]
+*   [[Truth]]
+*   [[Green Language]]

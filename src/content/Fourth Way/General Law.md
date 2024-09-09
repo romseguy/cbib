@@ -1,0 +1,31 @@
+
+> [!info] Part of the Casswiki article series [[Fourth Way]]
+
+The term **General Law** is used in Esoteric Science to describe the law(s) under which man live as a mechanical part of a mechanical world. During esoteric Work, the General Law is the adversary, until the successful development of self-mastery and conscious will makes possible an escape from its rule. As described by [[Boris Mouravieff]], in his book _Gnosis_, the General Law relates to man's position in the Universe. Thus, as Mouravieff describes it, man's existence on this planet has two main purposes.
+
+1.  As an element of the universal organism, serving the aims of the latter.
+2.  As an isolated individual, and as such, he can pursue his own aims. Mouravieff gives an example to clarify this. He states that the position of man in the universe is analogous to that of a cell in the human body. Each cell is part of an organ, which, in turn, is an element of a group of organs that assures proper accomplishment of some definite function of the organism.
+
+Thus the cell in our bodies is subject or placed under two categories or "rules" of laws.
+
+The first keeps the cell in its place. In Esoteric Science this is referred to as the General Law. The second category of laws leaves a certain liberty of action for the cell. This is called the Law of Exception.
+
+The first law is conservative and ensures that the organ of which this cell is part accomplishes its function with no impediment. Thus, the first condition is that during their lives the cells fulfill their roles given to them so as to serve the organ to which they belong. This law obliges these cells to remain in their proper place so as to complete their work and to dedicate their lives to this purpose. Thus this law is beneficial by ensuring the existence of the organs so as to allow the body to endure.
+
+However, the disappearance of a few cells, an infinitesimal part of the organ, goes unnoticed and the organ's functioning is not impaired. Thus the essential role of the General Law is to watch over continuity of function, and the disappearance of a few cells passes unnoticed by it. Therefore it places no further obstacles. Symbolically, one can say that cells which escape from this law now enter the domain of the Law of Exception. This escape of a few cells is a phenomenon that happens constantly. The Law of Exception makes this possible. All our cells from the epidermic to the nervous systems are constantly renewed according to different and variable rhythms. In addition to this renewal from within, there are also disappearances, compensated or not compensated for by new units.
+
+_But_ the analogy stops here in relation to man's efforts to escape the General Law of mechanical life and his efforts to pass into the second category of laws that provide the framework for him to pass on into the Law of Exception. In the above analogy the infinitesimal amount of cells that pass from the General Law into the Law of Exception are _mechanical_. But for man, it happens differently. When man attempts to migrate from the General Law of life to the Law of Exception then it can only be done by _conscious_ efforts. Then the General Law works against him.
+
+Mouravieff says in _Gnosis Vol. I_:
+
+"As long as man accepts the principle of the final annihilation of his Personality without a fight, he can carry on in life without attracting the increasing pressures of the General Law upon himself.
+
+"The case is totally different if he struggles to surpass the limits which it imposes. It acts simultaneously on several planes: physical, mental, and moral. Its action on the moral plane is conceived by man, since time immemorial, in the form of a personification: the Devil.
+
+"In the orthodox Tradition demonology occupies a considerable place. We find there practical constatations, fine and profound observations on the highly sophisticated and insidious forms that the Devil's action takes in very varied circumstances, in which it goes as far as using the good faith of humans for its own ends.
+
+"We will also find precious advice, based on accumulated experience over the ages, which is particularly helpful to students of esoteric science; because once the first positive results are obtained those students will unmistakably run up against the active opposition to the law and the GAME OF THE CRAFTY ONE.
+
+"It must be realized that in placing himself under the aegis of the Law of Exception, man goes against the General Law, which he is even called upon to overthrow, if only on an individual scale. He must not forget--under penalty of 'surprise attack'--the salvation depends on victory over the Devil, which as we have said, is the personalized moral aspect of the General Law. This is so, even though this, being a cosmic law, is naturally a divine law. One must not be afraid, as the Law of Exception is also a divine law. In choosing it, man continues to serve the interests of the whole, but differently and in an incomparably more efficient manner. During his fight against the first law, he is subject to tests that often take the form of temptations. In orthodox Doctrine deep studies are devoted to this theme, As stated above, they contain precious advice of a practical nature, details of which we cannot cover in this present book. We are however permitted to draw attention to the indirect nature of the diabolical action. If, aiming straight towards his goal, which is liberation and salvation, the seeker successfully overcomes the obstacles and by this shows proof of a strength that would permit him to defy the authority of the General Law, the latter will begin to act upon him indirectly, generally by the mediation of his near ones if they do not follow the same path: this action occurs on the moral plane, and often takes emotional forms appealing to his most noble, generous, and disinterested sentiments: to his charity; his obligations; his pity. It impels him down blind alleys, insinuating that he will be returning to his duty, that by so doing he will go on walking in the right path, etc. This will clarify the profound saying of Jesus that: 'A man's worst enemies are those of his own household.'
+
+See Predator's Mind, [[Law of Exception]]
