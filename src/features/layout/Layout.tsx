@@ -114,8 +114,7 @@ export const Layout = ({
   }: FallbackProps & { error: ServerError }) => {
     return page(
       <>
-        Une erreur est survenue, <ContactLink label="merci de nous contacter" />{" "}
-        avec une description du scénario.
+      An error occured, the app is still under development !
       </>
     );
   };

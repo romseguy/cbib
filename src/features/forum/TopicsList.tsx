@@ -27,7 +27,7 @@ import { IOrgList } from "models/Org";
 import { ISubscription } from "models/Subscription";
 import { ITopic } from "models/Topic";
 import { useRouter } from "next/router";
-import React, { useMemo, useState } from "react";
+import React, { Dispatch, SetStateAction, useMemo, useState } from "react";
 import { useSelector } from "react-redux";
 import { selectIsMobile } from "store/uiSlice";
 import { hasItems } from "utils/array";
@@ -52,6 +52,7 @@ export const TopicsList = ({
   query,
   subQuery,
   currentTopicName,
+  setCurrentTopicName,
   isAttendee = false,
   ...props
 }: GridProps & {
@@ -62,6 +63,7 @@ export const TopicsList = ({
   isCreator: boolean;
   isFollowed?: boolean;
   currentTopicName?: string;
+  setCurrentTopicName?: Dispatch<SetStateAction<string>>;
 }) => {
   const { colorMode } = useColorMode();
   const isDark = colorMode === "dark";
@@ -152,6 +154,7 @@ export const TopicsList = ({
 
     return topic || null;
   }, [currentTopicName, topics]);
+  console.log("🚀 ~ currentTopic ~ currentTopic:", currentTopic);
   // const refs = useMemo(
   //   () =>
   //     topics.reduce((acc: Record<string, React.RefObject<any>>, value) => {
@@ -338,7 +341,9 @@ export const TopicsList = ({
             console.log("🚀 ~ topics.map ~ topic:", topic);
             if (typeof topic === "string") return null;
 
-            const isCurrent = topic._id === currentTopic?._id;
+            //const isCurrent = topic._id === currentTopic?._id;
+            const isCurrent = topic.topicName === currentTopic?.topicName;
+            console.log("🚀 ~ topics.map ~ isCurrent:", isCurrent);
             const isTopicCreator =
               props.isCreator || getRefId(topic) === session?.user.userId;
             const isSubbedToTopic = !!subQuery.data?.topics?.find(
@@ -347,7 +352,6 @@ export const TopicsList = ({
                 return topicSubscription.topic._id === topic._id;
               }
             );
-            //if (!isCurrent) return null;
             return (
               <TopicsListItem
                 key={topic._id}
@@ -357,11 +361,11 @@ export const TopicsList = ({
                 query={query}
                 subQuery={subQuery}
                 currentTopicName={currentTopicName}
+                setCurrentTopicName={setCurrentTopicName}
                 topic={topic}
                 topicIndex={topicIndex}
                 isSubbedToTopic={isSubbedToTopic}
-                //isCurrent={isCurrent}
-                isCurrent={false}
+                isCurrent={isCurrent}
                 isTopicCreator={isTopicCreator}
                 //isLoading={isLoading[topic._id] || query.isLoading}
                 //setIsLoading={setIsLoading}

@@ -9,7 +9,7 @@ import {
 } from "@chakra-ui/react";
 
 import { useRouter } from "next/router";
-import React, { useEffect, useState } from "react";
+import React, { Dispatch, SetStateAction, useEffect, useState } from "react";
 import { TopicMessageForm } from "features/forms/TopicMessageForm";
 import { useScroll } from "hooks/useScroll";
 import { IEntity, isEvent, isOrg } from "models/Entity";
@@ -30,6 +30,7 @@ interface TopicsListItemProps {
   isMobile: boolean;
   session: Session | null;
   currentTopicName?: string;
+  setCurrentTopicName: Dispatch<SetStateAction<string>>;
   isCreator: boolean;
   isSubbedToTopic: boolean;
   isCurrent: boolean;
@@ -50,6 +51,7 @@ export const TopicsListItem = ({
   isMobile,
   session,
   currentTopicName,
+  setCurrentTopicName,
   isCreator,
   isCurrent,
   isSubbedToTopic,
@@ -96,15 +98,16 @@ export const TopicsListItem = ({
 
   const onClick = async () => {
     if (!isCurrent) {
+      setCurrentTopicName(topic.topicName);
       //const url = `${baseUrl}/${normalize(topic.topicName)}`;
-      let url = baseUrl;
-      url += isO && topic.event ? "" : `/${normalize(topic.topicName)}`;
+      // let url = baseUrl;
+      // url += isO && topic.event ? "" : `/${normalize(topic.topicName)}`;
 
-      await router.push(url, url, { shallow: true });
-      executeScroll();
+      // await router.push(url, url, { shallow: true });
+      // executeScroll();
     } else {
-      const url = baseUrl;
-      await router.push(url, url, { shallow: true });
+      // const url = baseUrl;
+      // await router.push(url, url, { shallow: true });
     }
   };
 
@@ -226,7 +229,7 @@ export const TopicsListItem = ({
             pt={3}
           />
 
-          {!isEditing && (
+          {/* {!isEditing && (
             <>
               <Box
                 borderBottomRadius="xl"
@@ -280,7 +283,7 @@ export const TopicsListItem = ({
                 )}
               </Box>
             </>
-          )}
+          )} */}
         </Box>
       )}
     </Box>

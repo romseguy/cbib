@@ -7,6 +7,7 @@ import { PageProps } from "pages/_app";
 import BooksMd from "content/Books/Books.md";
 import { VStack } from "@chakra-ui/react";
 import { TopicsList } from "features/forum/TopicsList";
+import { useState } from "react";
 
 const BooksPage = (props: PageProps) => {
   const BooksHtml = marked.parse(BooksMd);
@@ -16,15 +17,42 @@ const BooksPage = (props: PageProps) => {
 
   const topics = [
     {
+      _id: "1",
       topicName: "An interesting addition to this topic",
-      topicMessages: [],
+      topicMessages: [
+        {
+          _id: "11",
+          message: "one post",
+
+          createdBy: { _id: "1", userName: "romseguy" }
+        },
+        {
+          _id: "12",
+          message: "another post",
+          createdBy: { _id: "1", userName: "romseguy" }
+        }
+      ],
       //createdAt: "2024-10-28T14:29:17.596Z",
-      createdBy: { userName: "romseguy" }
+      createdBy: { _id: "1", userName: "romseguy" }
     },
     {
+      _id: "2",
       topicName: "Let's talk about one of these books",
-      topicMessages: [],
-      createdBy: { userName: "romseguy" }
+      topicMessages: [
+        {
+          _id: "21",
+          message: "one post",
+
+          createdBy: { _id: "1", userName: "romseguy" }
+        },
+        {
+          _id: "22",
+          message: "another post",
+
+          createdBy: { _id: "1", userName: "romseguy" }
+        }
+      ],
+      createdBy: { _id: "1", userName: "romseguy" }
     }
   ];
   const query = { data: { orgUrl: "test" } };
@@ -33,6 +61,8 @@ const BooksPage = (props: PageProps) => {
   //#region local state
   // const [isDisabled, setIsDisabled] = useState(getEnv() === "production");
   // const [isLoading, setIsLoading] = useState(false);
+  const [currentTopicName, setCurrentTopicName] = useState("");
+  console.log("🚀 ~ BooksPage ~ currentTopicName:", currentTopicName);
   //#endregion
 
   //#region form
@@ -103,6 +133,8 @@ const BooksPage = (props: PageProps) => {
       <VStack bgColor="rgba(1,1,1,0.1)" pb={3}>
         <AppHeading smaller>Threads</AppHeading>
         <TopicsList
+          currentTopicName={currentTopicName}
+          setCurrentTopicName={setCurrentTopicName}
           topics={topics}
           query={query}
           subQuery={subQuery}
