@@ -144,7 +144,7 @@ export const TopicsListItemHeader = ({
             {title}
           </HStack>
 
-          {!event && topic.topicCategory && (
+          {/* {!event && topic.topicCategory && (
             <HStack>
               <Text as="span">Catégorie :</Text>
               <Text as="span">
@@ -170,7 +170,7 @@ export const TopicsListItemHeader = ({
                 </CategoryTag>
               </Text>
             </HStack>
-          )}
+          )} */}
         </VStack>
       </HStack>
     </>
