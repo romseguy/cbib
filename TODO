@@ -1,0 +1,2 @@
+components/PageHeader: rajouter un indicateur du nombre de citations enregistré pour chaque livre
+routes/Livre: del note

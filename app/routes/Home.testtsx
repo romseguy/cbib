@@ -1,0 +1,30 @@
+// import { render, RenderOptions, screen } from "@testing-library/react";
+// import { ReactElement } from "react";
+// import { Provider } from "react-redux";
+// import { createMemoryRouter, RouterProvider } from "react-router";
+// import { createStore } from "../store";
+// import { collections, toLibs } from "../utils";
+import { Home } from "./Home";
+import Page from "./Page";
+import { renderWithRouter } from "../utils/testing";
+
+const mockedUseNavigate = vi.fn();
+const mockedUseNavigation = vi.fn();
+vi.mock("react-router-dom", async () => {
+  const mod = await vi.importActual<typeof import("react-router-dom")>(
+    "react-router-dom",
+  );
+  return {
+    ...mod,
+    useNavigate: () => mockedUseNavigate,
+    useNavigation: () => mockedUseNavigation,
+  };
+});
+
+describe("Home", () => {
+  test("renders", async () => {
+    renderWithRouter(<Page component={Home} loaderData={{}} />);
+    //await page.screenshot();
+    //expect(screen.getByText(/Author/)).toBeInTheDocument();
+  });
+});

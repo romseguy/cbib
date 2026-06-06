@@ -1,0 +1,26 @@
+# Build
+
+dist
+.next
+.swc
+tsconfig.tsbuildinfo
+/.react-router/
+/build/
+
+# Dependency directories
+
+node_modules/
+
+# Dotfiles
+
+.env*
+.vscode/*
+!.vscode/extensions.json
+
+# Package managers
+
+yarn-debug.log*
+yarn-error.log*
+
+# Public
+
