@@ -32,7 +32,7 @@ const cookies = (request) => {
 
 export const loader = async (props: Route.LoaderArgs) => {
   const cookie = cookies(props.request)["color-mode"];
-  const appearance = cookie || "dark";
+  const appearance = cookie || "light";
   const userAgent = props.request.headers.get("user-agent") || "";
 
   let app: RootData = {

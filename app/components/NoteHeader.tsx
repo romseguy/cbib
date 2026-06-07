@@ -144,7 +144,7 @@ export const NoteHeaderRight = (props) => {
     <Box {...props}>
       {/* {!isLoading && ( */}
       <Flex gap="3">
-        <LocaleSwitch
+        {/* <LocaleSwitch
           setLocale={(locale) => {
             navigate(
               locale === "fr"
@@ -152,7 +152,7 @@ export const NoteHeaderRight = (props) => {
                 : location.pathname.replace("livre", "book"),
             );
           }}
-        />
+        /> */}
         <Share1Icon
           className="share-icon"
           color="var(--color-blue-500)"

@@ -20,7 +20,7 @@ export const PageHeader = (props) => {
   const navigate = useNavigate();
   const books = (lib.books || []).orderBy(
     ({ pos }) => (!pos ? -1 : parseInt(pos)),
-    true,
+    false,
   );
   return (
     <div id="page-header">
@@ -41,7 +41,8 @@ export const PageHeader = (props) => {
               key={"book-" + index}
               className="book"
               css={css`
-                ${b.src && "background: url(" + b.src + ");"}
+                ${b.src &&
+                "background: url(" + b.src + ");background-size: cover;"}
                 border: ${b.id === book?.id
                   ? "1px solid yellow"
                   : "1px solid white"};

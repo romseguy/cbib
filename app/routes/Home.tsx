@@ -59,7 +59,7 @@ export function Home(props) {
       <p>
         {localize(
           "Sélectionnez un livre dans la bibliothèque ci-dessus pour découvrir une sélection de citations.",
-          "Select a book in the library above to access its quotes.",
+          "Select a book in the library above to read handpicked quotes.",
         )}
       </p>
 

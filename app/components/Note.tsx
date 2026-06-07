@@ -129,9 +129,9 @@ export const Note = (props: NoteP) => {
               {note.isNew
                 ? localize("Nouvelle citation", "New quote")
                 : localize("Modifiez cette citation", "Edit this quote")}
-              <LocaleSwitch
+              {/* <LocaleSwitch
                 setLocale={(locale) => dispatch(setState({ locale }))}
-              />
+              /> */}
             </Flex>
           )}
 
